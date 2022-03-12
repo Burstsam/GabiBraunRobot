@@ -53,7 +53,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-`Hey There!` [👩‍💼](https://te.legra.ph/file/a254ed0edfea61b57273a.jpg) `My name is` *Levi Ackerman*
+`Hey There!` [Kill](https://te.legra.ph/file/a254ed0edfea61b57273a.jpg) `My name is` *Levi Ackerman*
 `I am an Anime Themed group management bot.
 Build by The Ghost Hunter and managed by Falco Grice for Your Telegram Group , I specialize in managing anime and similar themed groups.
 You can find my list of available commands with! Hit` *🔐Commands*   
@@ -62,7 +62,7 @@ You can find my list of available commands with! Hit` *🔐Commands*
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ADD Levi TO YOUR GROUP ➕️",url="t.me/Gabi_Braun_Robot?startgroup=true"),
+            text="➕️ ADD Levi TO YOUR GROUP ➕️",url="t.me/CaptainLeviXBot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(
